@@ -1,7 +1,6 @@
 # Node Web Init
 
-quick starter for node web with lte admin
-
+quick starter for Express Web with lte admin
 
 Requirement:
 
